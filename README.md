@@ -7,6 +7,13 @@ Tired of AI-generated code that's buggy, inconsistent, and ignores your architec
 
 Reclaim control. Enforce your coding standards. Ship with confidence.
 
+---                                                                                                                                                        
+**⚠️  This project has been superseded by [GAAI — Governed Agentic AI Infrastructure](https://github.com/Fr-e-d/GAAI-framework).**
+  
+GAAI is the production-ready evolution of this framework — dual-track agents, persistent memory, skill-based execution, and a full decision trail. Battle-tested on 176 stories, 177 decisions, 84,000 lines of TypeScript.
+
+**→ [Go to GAAI](https://github.com/Fr-e-d/GAAI-framework)**
+
 ---
 
 ## ✨ The Philosophy: From Prompting & Fixing to Governing
